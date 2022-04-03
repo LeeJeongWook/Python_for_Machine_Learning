@@ -5,6 +5,6 @@ Boost Course Python for Machine Learning
 
 2022.03.06 ~  
   
-[2022.03.26] : 2)Python for ML ~ 3)Data Hanndling
-[2022.03.31] : 3)Data Hanndling : 강의영상
+[2022.03.26] : 2)Python for ML ~ 3)Data Hanndling  
+[2022.03.31] : 3)Data Hanndling : 강의영상  
 [2022.04.04] : 3)Data Hanndling : 1.ndarray ~ 6.array operations
