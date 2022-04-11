@@ -9,4 +9,4 @@ Boost Course Python for Machine Learning
 [2022.03.31] : 3)Data Hanndling : 강의영상  
 [2022.04.04] : 3)Data Hanndling : 1.ndarray ~ 6.array operations  
 [2022.04.07] : <a href="https://www.notion.so/Study-22-04-07-d985045027d4440b8679a595999cc32b" target="_blank">Study[22.04.07]</a>
-[2022.04.04] : 3)Data Hanndling : ~ 7. comparisons
+[2022.04.11] : 3)Data Hanndling : ~ 7. comparisons
